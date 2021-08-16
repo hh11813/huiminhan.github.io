@@ -7,7 +7,7 @@
       <p><b>山东大学数学学院</b></p>
       <p><b>邮箱：hanhuiminhhm@126.com</b></p>
       <p><b>地址：济南市历城区山大南路27号山东大学，知新楼，邮编250100</b></p>
-      <p><a href="/index-en.md">English Version</a></p>
+      <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
