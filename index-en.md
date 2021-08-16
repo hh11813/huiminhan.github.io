@@ -7,7 +7,7 @@
       <p><b>College of Mathematics, ShanDong University</b></p>
       <p><b>E-mail：hanhuiminhhm@126.com</b></p>
       <p><b>Address：Rm1109, Zhixin Building, ShanDong University, Shanda South Road, Jinan</b></p>
-      <a href="/index.md">中文版</a>
+      <a href="/index.html">中文版</a>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
